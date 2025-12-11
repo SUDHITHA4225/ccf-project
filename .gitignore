@@ -1,0 +1,4 @@
+roundtrip.csv
+*.ccf
+venv/
+__pycache__/
